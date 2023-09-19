@@ -13,8 +13,10 @@ The CMOS Inverter is a basic building block of electronic circuit. It is one whi
 ![image](https://github.com/VishwajithVPai/CMOS-Inverter-Virtuoso/assets/130815256/cf4a7503-9956-4bd0-a1b7-c20352523a68)
 # Transient Response
 ![image](https://github.com/VishwajithVPai/CMOS-Inverter-Virtuoso/assets/130815256/bf3df8e4-1188-4ac0-8ef5-5767dfd7cb13)
+Here this graph represents the response Vout of the inverter with respect to input Vin, where Vout would be the inverse of input signal Vin.
 # Voltage Transfer Characteristics
 ![image](https://github.com/VishwajithVPai/CMOS-Inverter-Virtuoso/assets/130815256/4ead72aa-620e-45a5-a422-f4ccfa1c392b)
+This graph reprsents the switching of an inverter from 1 to 0 , this graph is a Vout vs Vin graph, as Vin increase Linearly we can observe how vut switches from Vdd to 0 depending on the rate of switching of the transistor.
 # Inverter Layout
 ![image](https://github.com/VishwajithVPai/CMOS-Inverter-Virtuoso/assets/130815256/8c31c558-b568-4cc1-92ca-e4ecf3d890c2)
 # Results
