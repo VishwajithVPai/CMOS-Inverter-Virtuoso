@@ -7,7 +7,9 @@ The CMOS Inverter is a basic building block of electronic circuit. It is one whi
 + Layout : Cadence Virtuoso - Layout XL
 + Technology : gpdk90
 + Verification tool :Assura
-  All DRC's were cleared and the design met LVS.
+
+
+All DRC's were cleared and the design met LVS.
 # Inverter Schematic
 ![image](https://github.com/VishwajithVPai/CMOS-Inverter-Virtuoso/assets/130815256/5d91bf27-8c56-4257-984e-1d8cf3567ced)
 # Inverter Simulation
